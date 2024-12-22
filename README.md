@@ -66,6 +66,6 @@ Our plugins address key limitations in the current HexaBot ecosystem:
 
 ## 📝 Note
 
-This project was developed during the HexaStack Hackathon to demonstrate the extensibility of the HexaBot platform. The plugins are currently pending activation and integration into the main platform.
+This project was developed during the Orange Hackathon to demonstrate the extensibility of the HexaBot platform. The plugins are currently pending activation and integration into the main platform.
 
 *Developed with ❤️ Pegas Espeit Team*
