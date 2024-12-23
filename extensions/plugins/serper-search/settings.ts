@@ -11,9 +11,15 @@ import { SettingType } from '@/setting/schemas/types';
 
 export default [
   {
-    label: 'message',
+    label: 'api_key',
     group: 'default',
     type: SettingType.text,
-    value: 'Hello World!', // Default model
+    value: '__SERPER_TOKEN__',
+  },
+  {
+    label: 'api_groq_key',
+    group: 'default',
+    type: SettingType.text,
+    value: '__API_GROQ_KEY__',
   },
 ] as const satisfies PluginSetting[];
